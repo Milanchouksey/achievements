@@ -1,4 +1,4 @@
-//a clone of google docs with include ,a aplication is scalble in nature
+//a clone of google docs with include a application is scalable in nature
 #include <iostream>
 #include <vector>
 #include <string>
